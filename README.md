@@ -18,6 +18,7 @@ My goal is to build practical Linux skills through implementation, troubleshooti
 No.| Project Name| Status
 
 01| Enterprise-linux-storage-management| Completed
+02| Automated-backup-recovery-system
 
 🎯 Learning Focus
 
