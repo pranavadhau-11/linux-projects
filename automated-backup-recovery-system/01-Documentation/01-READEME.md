@@ -118,7 +118,7 @@ This project helped me gain practical knowledge of Linux commands, file manageme
 - Bash Shell Scripting
 - File and Directory Management
 - Backup and Recovery Operations
-- Cron Job Schedulings
+- Cron Job Scheduling
 - Git and GitHub
 
 10. Author
